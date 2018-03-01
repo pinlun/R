@@ -1,3 +1,3 @@
 # parse-html
-use r and python parse html
+use r parse html
 website:Weibo,Yhd,Suning
